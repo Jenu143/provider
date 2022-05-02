@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "750657105123",
+    "project_id": "login-with-provier",
+    "storage_bucket": "login-with-provier.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750657105123:android:81ccfa9b559021534ce9d6",
+        "android_client_info": {
+          "package_name": "com.example.google_login_with_provider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "750657105123-4lmv27hnk7cu4mba2rttn96dtt7890mk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjABjWF9BMzEoB9vmHU8UtfTGwsLPTFNQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "750657105123-4lmv27hnk7cu4mba2rttn96dtt7890mk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
